@@ -1,0 +1,3 @@
+[submodule "GA_VRP_GPU"]
+	path = GA_VRP_GPU
+	url = https://github.com/mrprajesh/GA_VRP_GPU
